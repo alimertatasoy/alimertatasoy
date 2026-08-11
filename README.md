@@ -2,13 +2,23 @@
 
 <!-- Giriş ve Hakkımda -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Mobile+Application+Developer;PHP+%2F+Laravel+Expert;Web+Application+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Mobile+Application+Developer;AI+%2F+Computer+Vision;Embedded+Systems+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Modern, hızlı ve kullanıcı dostu mobil ve web uygulamaları geliştirmeye odaklanmış bir <b>Full Stack Geliştiricisiyim</b>. 
-  Tasarım estetiğine ve kod kalitesine önem veriyor, her projede en iyi kullanıcı deneyimini sunmayı hedefliyorum.
+  Modern, yüksek performanslı ve ölçeklenebilir sistemler geliştirmeye odaklanmış bir <b>Full Stack Geliştirici</b> ve <b>Yapay Zeka / Gömülü Sistemler meraklısıyım</b>. 
+  Geniş bir yelpazede, endüstriyel otomasyondan web ve mobil uygulamalara, yapay zekadan mikroservis mimarilerine kadar uçtan uca çözümler üretiyorum.
 </p>
+
+---
+
+### 🚀 Neler Yapıyorum?
+
+- 🌐 **Web & Mobil Geliştirme:** PHP/Laravel, JavaScript ve Tailwind CSS kullanarak modern web siteleri; Flutter & Dart ile cross-platform, hızlı ve akıcı mobil uygulamalar.
+- ⚙️ **Arka Plan & Sistem Mimarisi:** Ölçeklenebilir mikroservisler, yüksek performanslı RESTful API'ler ve veritabanı (MySQL) optimizasyonları.
+- 🧠 **Yapay Zeka & Bilgisayarlı Görü:** Python ile derin öğrenme (Deep Learning), makine öğrenmesi (Machine Learning) modelleri ve görüntü işleme (Computer Vision) algoritmaları geliştirme.
+- 🔌 **Gömülü Sistemler & Otomasyon:** IoT projeleri için ESP32, robotik ve prototipleme için Arduino, endüstriyel otomasyon için PLC programlama.
+- 🖥️ **Masaüstü Uygulamaları:** Farklı platformlarda çalışabilen kararlı masaüstü programları geliştirme.
 
 ---
 
@@ -23,11 +33,12 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <br><br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---

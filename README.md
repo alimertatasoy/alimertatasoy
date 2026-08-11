@@ -1,60 +1,24 @@
-# Merhaba, Ben Ali Mert Atasoy! 👋
+# Ali Mert Atasoy
 
-<!-- Giriş ve Hakkımda -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Mobile+Application+Developer;AI+%2F+Computer+Vision;Embedded+Systems+Engineer" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  Modern, yüksek performanslı ve ölçeklenebilir sistemler geliştirmeye odaklanmış bir <b>Full Stack Geliştirici</b> ve <b>Yapay Zeka / Gömülü Sistemler meraklısıyım</b>. 
-  Geniş bir yelpazede, endüstriyel otomasyondan web ve mobil uygulamalara, yapay zekadan mikroservis mimarilerine kadar uçtan uca çözümler üretiyorum.
-</p>
+Full Stack Developer & Gömülü Sistemler Geliştiricisi.
 
 ---
 
-### 🚀 Neler Yapıyorum?
+### Hakkımda
 
-- 🌐 **Web & Mobil Geliştirme:** PHP/Laravel, JavaScript ve Tailwind CSS kullanarak modern web siteleri; Flutter & Dart ile cross-platform, hızlı ve akıcı mobil uygulamalar.
-- ⚙️ **Arka Plan & Sistem Mimarisi:** Ölçeklenebilir mikroservisler, yüksek performanslı RESTful API'ler ve veritabanı (MySQL) optimizasyonları.
-- 🧠 **Yapay Zeka & Bilgisayarlı Görü:** Python ile derin öğrenme (Deep Learning), makine öğrenmesi (Machine Learning) modelleri ve görüntü işleme (Computer Vision) algoritmaları geliştirme.
-- 🔌 **Gömülü Sistemler & Otomasyon:** IoT projeleri için ESP32, robotik ve prototipleme için Arduino, endüstriyel otomasyon için PLC programlama.
-- 🖥️ **Masaüstü Uygulamaları:** Farklı platformlarda çalışabilen kararlı masaüstü programları geliştirme.
+Yapay zeka (derin öğrenme, makine öğrenmesi, görüntü işleme), mikroservis mimarileri, RESTful API'ler, mobil (Flutter/Dart), web ve masaüstü uygulamaları geliştiriyorum. Aynı zamanda ESP32, PLC ve Arduino ile endüstriyel otomasyon ve gömülü sistem projeleri üzerinde çalışıyorum.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### Teknolojiler
 
-<div align="center">
-  <!-- Diller ve Frameworkler -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+- **Diller & Web:** PHP (Laravel), Python, JavaScript, HTML, CSS, Tailwind CSS
+- **Mobil & Masaüstü:** Flutter, Dart
+- **Gömülü Sistemler:** ESP32, PLC, Arduino
+- **Veritabanı:** MySQL
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### İletişim
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimertatasoy&theme=github_dark" alt="alimertatasoy GitHub Stats" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimertatasoy&theme=github_dark" alt="Top Languages" />
-</div>
-
----
-
-### 📬 Benimle İletişime Geçin
-
-<p align="center">
-  Projeleriniz veya iş birlikleri için benimle GitHub üzerinden iletişime geçebilirsiniz.
-</p>
+Projeleriniz ve iş birlikleri için benimle GitHub üzerinden iletişime geçebilirsiniz.

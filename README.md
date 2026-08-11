@@ -35,16 +35,9 @@
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alimertatasoy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="alimertatasoy GitHub Stats" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimertatasoy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=alimertatasoy&show_icons=true&theme=dark" alt="alimertatasoy GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimertatasoy&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---

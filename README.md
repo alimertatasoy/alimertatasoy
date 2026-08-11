@@ -2,11 +2,11 @@
 
 <!-- Giriş ve Hakkımda -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;PHP+%2F+Laravel+Expert;Web+Application+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Mobile+Application+Developer;PHP+%2F+Laravel+Expert;Web+Application+Designer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Modern, hızlı ve kullanıcı dostu web uygulamaları geliştirmeye odaklanmış bir <b>Full Stack Web Geliştiricisiyim</b>. 
+  Modern, hızlı ve kullanıcı dostu mobil ve web uygulamaları geliştirmeye odaklanmış bir <b>Full Stack Geliştiricisiyim</b>. 
   Tasarım estetiğine ve kod kalitesine önem veriyor, her projede en iyi kullanıcı deneyimini sunmayı hedefliyorum.
 </p>
 
@@ -18,11 +18,15 @@
   <!-- Diller ve Frameworkler -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 

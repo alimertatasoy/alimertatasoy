@@ -37,4 +37,4 @@ Modern yazılım geliştirme süreçlerinde uçtan uca çözümler üreten bir y
 
 ### İletişim
 
-Projeleriniz ve iş birlikleri için benimle GitHub üzerinden iletişime geçebilirsiniz.
+Projeleriniz ve iş birlikleri için benimle GitHub üzerinden iletişime geçebilir, **atasoyalimert@gmail.com** e-posta adresinden veya **[simyasoft.com.tr](https://simyasoft.com.tr)** web sitesi üzerinden bana ulaşabilirsiniz.
